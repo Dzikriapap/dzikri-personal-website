@@ -32,6 +32,7 @@ Selain sebagai sarana menampilkan informasi pribadi, website ini juga dilengkapi
 - **Session & autentikasi PHP**
 - **Fitur pencarian berbasis query**
 - **Sistem komentar per artikel**
+- **Infinityfree** (untuk Hosting Online di mobile)
 
 ## 📁 Struktur Folder Proyek
 
@@ -137,6 +138,15 @@ Menampilkan form untuk mengedit informasi "About Me" yang muncul di halaman user
 ---
 
 > 📌 Catatan: Seluruh halaman admin dirancang hanya dapat diakses setelah proses autentikasi login berhasil, untuk menjaga keamanan data dan konten.
+
+## 📱 Akses Versi Mobile
+
+Kamu bisa mengakses website ini melalui perangkat mobile menggunakan link berikut:
+
+🔗 [https://dzikri-project.infinityfreeapp.com/index.php)
+
+Website ini telah dioptimalkan agar responsif dan nyaman digunakan pada berbagai ukuran layar.
+
 
 ## 🔧 Rencana Pengembangan
 
